@@ -1,0 +1,137 @@
+
+(0)Question: Ninety-nine bottles of beer on the wall, ninety-nine bottles of beer,
+take one down and pass it around.
+ 
+How many bottles of beer are on the wall?~
+Location: You wake up on the floor of an old castle that smells like dirt.~
+Object: Banana~
+
+(1)Question: One fish, two fish, red fish, blue fish.
+ 
+How many fish are there?~
+Location: You see a sparkly light in the fireplace. The fireplace explodes blinding you.
+When your vision comes back, you notice you are in the Amazon Forest surrounded by baboons.~
+Object: Apple~
+
+(2)Question: Why was six afraid of seven?~
+Location: You are instantly teleported to Hogwarts riding on a broomstick.~
+Object: Coal~
+
+(3)Question: How many eggs can you put in an empty basket one foot in diameter?~ 
+Location: You teleport on to the moon next to a green alien eating sushi.~
+Object: Flashlight~
+
+(4)Question: If you can purchase eight eggs for twenty six cents.
+
+How many can you buy for a cent and a quarter?~
+Location: You end in a pub next to Gandalf while he fights some orcs.~
+Object: Egg~
+
+(5)Question: How many nine's are there between one and one-hundred?~
+Location: You arrive in the mountains where you see a giant Viking statue and a frost valley.~
+Object: Donut~
+
+(6)Question: If a rooster laid thirteen eggs, and the farmer took eight of them, 
+and then another rooster laid twelve eggs and four of them were rotten.
+
+How many of the eggs were left?~
+Location: You are on the Great Wall Of China overlooking the 
+battle between the Han and Qin dynasty.~
+Object: Dim-sum~
+
+(7)Question: I am an odd number. Take away an alphabet and I become even.
+
+What number am I?~
+Location: You teleport onto Smaug the dragon. Forunately, he is sleeping.~
+Object: Dragon Scale~
+
+(8)Question: What is the next row in this pyramid?
+1
+11
+21
+1211
+111221~
+Location: You are in the Voyager going towards a black hole.
+You then enter hyper space with the help of a man with pointy ears.~
+Object: Spock's Laser Gun~
+
+(9)Question: You have six black socks, four blue socks, eight brown socks, 
+and two red socks in your sock drawer.
+
+What is the minimum number of socks that you need to pull out
+in the dark to be sure you had a matching pair?~
+Location: You wake up on Kenny's bed in Southpark. Kenny is next to you.
+He is dead.~
+Object: Kenny's Jacket~
+
+(10)Question: Jake weighs half as much as Joe, and John weighs three times as much as Jake. 
+Together they weigh seven hundred ninety-two pounds.
+
+How much does Joe weigh?~
+Location: You eat a blue bill. Next you see a man wearing black sunglasses
+and a black trenchcoat.~
+Object: Neo's coat~
+
+(11)Question: Solve for x: 1=3, 2=3, 3=5, 4=4, 5=4, 6=3, 7=5, 8=5, 9=4, 10=3, 11=x, 12=x~
+Location: You fly onto a rainbow next to a unicorn shooting laser beams.~
+Object: Unicorn horn~
+
+(12)Question: A dog was asked how old he was. He replied 
+"In two years I will be twice as old as I was five years ago."
+
+How old is he?~
+Location: You fall into the valley of death. You see a sword in a stone.~
+Object: Sword of Doom~
+
+(13)Question: A woman has seven daughters and they each have a brother.
+
+How many children does she have?~
+Location: You warp into Candyland next to Ralph and Sonic the hedgehog.~
+Object: Giant lollipop~
+
+(14)Question: How many two cent stamps are there in a dozen?~
+Location: You are skydiving in Asgard. A man with a hammer saves you.~
+Object: Thor's cape~
+
+(15)Question: A boy is twice as old as his sister, and half as old as their father. 
+In fifty years, his sister will be half as old as their father.
+
+How old is the boy now?~
+Location: You are in a armani suit in the main lobby of Stark Enterprises.~
+Object: Iron Man Prototype Suit~
+
+(16)Question: What is the next number in the sequence?
+4, 6, 12, 18, 30, 42, 60, 72, 102, 108~
+Location: You end up in a secret military base with a guy 
+in a american colored jumpsuit holding a shield.~
+Object: Weird Star Shield~
+
+(17)Question: In each house lives a person of different nationality. 
+These five homeowners each drink a different kind of beverage, smoke different 
+brand of cigar and keep a different pet. 
+Who owns the fish?
+
+The British man lives in a red house. 
+The Swedish man keeps dogs as pets. 
+The Danish man drinks tea. 
+The Green house is next to, and on the left of the White house. 
+The owner of the Green house drinks coffee. 
+The person who smokes Pall Mall rears birds. 
+The owner of the Yellow house smokes Dunhill. 
+The man living in the center house drinks milk. 
+The Norwegian lives in the first house. 
+The man who smokes Blends lives next to the one who keeps cats. 
+The man who keeps horses lives next to the man who smokes Dunhill. 
+The man who smokes Blue Master drinks beer. 
+The German smokes Prince. 
+The Norwegian lives next to the blue house. 
+The Blends smoker lives next to the one who drinks water.
+
+(1)Brit
+(2)Swede
+(3)Dane
+(4)Norwegian
+(5)German~
+Location: You are dangling from the Golden State Bridge by a really 
+strong web shot by a guy in a red jumpsuit.~
+Object: Glowing Spider~

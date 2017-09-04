@@ -1,0 +1,59 @@
+Name: John Smith
+Date: 02/08/2014
+Email: jsmith1@pdx.edu
+Subject: Math
+Message: Do you like Math?
+
+Name: Jane Smith 
+Date: 02/05/2014
+Email: jsmith2@pdx.edu
+Subject: Philosophy
+Message: What is your favorite philosophy class?
+
+Name: Bob Doe 
+Date: 02/03/2014
+Email: bdoe@gmail.com
+Subject: New Laptop
+Message: I got a new gaming laptop!
+
+Name: David Lee 
+Date: 02/01/2014
+Email: dlee626@yahoo.com
+Subject: LoL
+Message: Lets go play League of Legends!
+
+Name: Joshua Ng 
+Date: 01/31/2014
+Email: jNg909@gmail.com
+Subject: Help
+Message: I need help building my desktop please!
+
+Name: Kevin Wu 
+Date: 01/28/2014
+Email: kWupew@gmail.com
+Subject: MMA
+Message: Lets go spar soon.
+
+Name: Maggie Lee 
+Date: 01/27/2014
+Email: mmyum626@gmail.com
+Subject: BOBA
+Message: I want boba!
+
+Name: Justine Sy 
+Date: 01/25/2014
+Email: jSy@usc.edu
+Subject: Visting
+Message: I am coming over to visit!
+
+Name: Ryan Mendoza 
+Date: 01/21/2014
+Email: rMendoza@calpoly.edu
+Subject: Workout
+Message: We are going to workout soon.
+
+Name: Adreannie Wong 
+Date: 01/19/2014
+Email: aWong@calf.edu
+Subject: Dinner
+Message: Lets go out for sushi!

@@ -1,0 +1,10 @@
+Question: Do you prefer desktops or laptops?~
+
+Question: Which screen size do you prefer?~
+
+Question: Which tower size do you want?~
+
+Question: Which Graphics Brand do you prefer?~ 
+
+Question: How much are you willing to spend?~
+

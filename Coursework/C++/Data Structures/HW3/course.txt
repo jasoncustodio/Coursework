@@ -1,0 +1,99 @@
+Crn: 60885~
+Days: TR~
+Time: 12:00-13:50~
+Title: Computer Science~
+Credit: 4.00~
+Subject: CS~
+Section: 001~
+Location: EB 103~
+Instructor: Vladmir Putin~
+
+Crn: 60886~
+Days: F~
+Time: 10:00-11:50~
+Title: Computer Science~
+Credit: 4.00~
+Subject: CS~
+Section: 002~
+Location: FAB 10~
+Instructor: Chris Hemsworth~
+
+Crn: 61945~
+Days: MW~
+Time: 18:40-20:30~
+Title: Calculus~
+Credit: 4.00~
+Subject: MTH~
+Section: 001~
+Location: NH 364~
+Instructor: Jessica Alba~
+
+Crn: 61943~
+Days: TR~
+Time: 12:00-13:50~
+Title: Calculus~
+Credit: 4.00~
+Subject: MTH~
+Section: 002~
+Location: LH 301~ 
+Instructor: Bill Clinton~
+
+Crn: 63120~
+Days: MW~
+Time: 18:40-20:30~
+Title: Philosophy~
+Credit: 3.00~
+Subject: PHL~
+Section: 001~
+Location: NH 11~
+Instructor: George Clooney~
+
+Crn: 63119~
+Days: F~
+Time: 10:00-11:50~
+Title: Philosophy~
+Credit: 3.00~
+Subject: PHL~
+Section: 002~
+Location: CH 269~
+Instructor: Angelina Jolie~
+
+Crn: 63174~
+Days: TR~
+Time: 10:00-11:50~
+Title: Psychology~
+Credit: 3.00~
+Subject: PSY~
+Section: 001~
+Location: CH 150~
+Instructor: Stan Lee~
+
+Crn: 63173~
+Days: MW~
+Time: 12:45-13:50~
+Title: Psychology~
+Credit: 3.00~
+Subject: PSY~
+Section: 002~
+Location: CH 371~
+Instructor: Hilary Clinton~
+
+Crn: 61152~
+Days: TR~
+Time: 10:00-11:50~
+Title: English~
+Credit: 4.00~
+Subject: ENG~
+Section: 001~
+Location: BHB 220~
+Instructor: Sherlock Holmes~
+
+Crn: 61150~
+Days: MW~
+Time: 12:45-13:50~ 
+Title: English~
+Credit: 4.00~
+Subject: ENG~
+Section: 002~
+Location: BHB 210~
+Instructor: Peter Parker~

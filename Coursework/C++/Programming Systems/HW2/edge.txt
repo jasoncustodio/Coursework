@@ -1,0 +1,136 @@
+Answer: 1337
+Cuurent: 0
+Attach: 2
+
+Answer: 98
+Current: 0
+Attach: 1
+
+Answer: 1337 
+Current: 1
+Attach: 2  
+
+Answer: 5
+Current: 1 
+Attach: 3
+
+Answer: 1337
+Current: 2 
+Attach: 4 
+
+Answer: 789
+Current: 2
+Attach: 3 
+
+Answer: 1337
+Current: 3
+Attach: 4
+
+Answer: 1
+Current: 3
+Attach: 5 
+
+Answer: 1337
+Current: 4
+Attach: 6
+
+Answer: 8 
+Current: 4
+Attach: 5 
+
+Answer: 1337
+Current: 5
+Attach: 6
+
+Answer: 20  
+Current: 5
+Attach: 7 
+
+Answer: 1337
+Current: 6
+Attach: 8
+
+Answer: 0
+Current: 6
+Attach: 7 
+
+Answer: 1337
+Current: 7
+Attach: 8
+
+Answer: 7
+Current: 7
+Attach: 9
+
+Answer: 1337
+Current: 8
+Attach: 10
+
+Answer: 312211
+Current: 8
+Attach: 9 
+
+Answer: 1337
+Current: 9
+Attach: 10
+
+Answer: 5 
+Current: 9
+Attach: 11
+
+Answer: 1337
+Current: 10
+Attach: 12
+
+Answer: 240 
+Current: 10
+Attach: 11 
+
+Answer: 1337
+Current: 11
+Attach: 12
+
+Answer: 6 
+Current: 11
+Attach: 13
+
+Answer: 1337
+Current: 12
+Attach: 14
+
+Answer: 12
+Current: 12
+Attach: 13
+
+Answer: 1337
+Current: 13
+Attach: 14
+
+Answer: 8
+Current: 13 
+Attach: 15 
+
+Answer: 1337
+Current: 14
+Attach: 16
+
+Answer: 12
+Current: 14 
+Attach: 15 
+
+Answer: 1337
+Current: 15
+Attach: 16
+
+Answer: 50
+Current: 15 
+Attach: 17 
+
+Answer: 138
+Current: 16 
+Attach: 17
+
+Answer: 5
+Current: 17 
+Attach: 0 
+

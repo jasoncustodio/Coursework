@@ -1,0 +1,35 @@
+Tag: 1
+Name: John Smith~
+Phone: 909-123-1234~
+Username: John J Smith~
+Address: jsmith101@gmail.com~
+
+Tag: 2
+Name: Jane Smith~
+Phone: 626-321-4321~
+Username: Jane H Smith~
+Address: jsmith102@gmail.com~
+
+Tag: 3
+Name: Joe Doe~
+Phone: 503-123-1234~
+Username: Joe Dough~
+Address: jdoe@gmail.com~
+
+Tag: 1
+Name: Josh Groban~
+Phone: 909-123-1234~
+Username: JGroban~
+Address: jgroban101@gmail.com~
+
+Tag: 2
+Name: Janet Moo~
+Phone: 231-341-4739~
+Username: JMJM~
+Address: jmmmmm@gmail.com~
+
+Tag: 3
+Name: Moop Doop~
+Phone: 503-123-1234~
+Username: Meh Min Chin~
+Address: jmlou@gmail.com~

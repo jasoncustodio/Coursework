@@ -1,0 +1,12 @@
+Start:S
+Terminals:01#
+Nonterminals:SA
+
+Nonterminal:S
+Rule:00A1
+
+Nonterminal:A
+Rule:0A1
+
+Nonterminal:A
+Rule:#

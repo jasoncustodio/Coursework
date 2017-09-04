@@ -1,0 +1,40 @@
+Answer: Laptops~
+Current: 0
+Attach: 1
+
+Answer: Desktops~
+Current: 0
+Attach: 2
+
+Answer: 14 Inches~
+Current: 1
+Attach: 3
+
+Answer: 15.6 Inches~
+Current: 1
+Attach: 3
+
+Answer: Medium~
+Current: 2
+Attach: 3
+
+Answer: Large~ 
+Current: 2
+Attach: 3
+
+Answer: Nvidia Geforce~
+Current: 3
+Attach: 4
+
+Answer: AMD Radeon~
+Current: 3
+Attach: 4
+
+Answer: $300-$600~
+Current: 4
+Attach: 0
+
+Answer: $700-$1200~
+Current: 4
+Attach: 0
+

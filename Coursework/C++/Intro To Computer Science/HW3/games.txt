@@ -1,0 +1,40 @@
+Name: Minecraft
+Email: mineman@gmail.com
+Rating: 5
+Summary: Build, destroy, build.
+Platform: Xbox 360
+Comments: A game for all ages.
+Available: Yes
+
+Name: Warcraft III
+Email: warman@gmail.com
+Rating: 5
+Summary: Build armies and fight.
+Platform: PC
+Comments: Very fun multiplayer.
+Available: Yes
+
+Name: Warframe
+Email: warframeman@gmail.com
+Rating: 5
+Summary: Space ninjas.
+Platform: PC
+Comments: Very fun and awesome graphics.
+Available: Yes
+
+Name: Final Fantasy VII
+Email: finalman@gmail.com
+Rating: 5
+Summary: Super awesome.
+Platform: PlayStation
+Comments: Amazing.
+Available: Yes
+
+Name: Dark Souls
+Email: darkman@gmail.com
+Rating: 5
+Summary: Very hard.
+Platform: PlayStation 3
+Comments: Ridiculously hard.
+Available: Yes
+

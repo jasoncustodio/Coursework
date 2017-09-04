@@ -1,0 +1,12 @@
+Start:S
+Terminals:01#
+Nonterminals:S
+
+Nonterminal:S
+Rule:0S0
+
+Nonterminal:S
+Rule:1S1
+
+Nonterminal:S
+Rule:#
